@@ -1,2 +1,2 @@
 # ml-model-deployment-aws-ec2
-deployment models ML in aws 
+codes related to aws ec2 deployment
